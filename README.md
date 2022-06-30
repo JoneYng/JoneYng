@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoneYng&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&locale=zh)](https://git.io/streak-stats)
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2](http://github-readme-streak-stats.herokuapp.com?user=JoneYng&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&locale=zh" />
 </div>
 
 ![](https://raw.githubusercontent.com/JoneYng/JoneYng/main/assets/github-contribution-grid-snake.svg)
