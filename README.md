@@ -1,5 +1,5 @@
 <div align="center">
-<h3>an android developer~</br>世事如书，我偏爱你这一句，愿做个逗号，待在你脚边<h2/>
+<h3>an android developer~</br></br>世事如书，我偏爱你这一句，愿做个逗号，待在你脚边<h2/>
 </div>
 
 ![](https://raw.githubusercontent.com/JoneYng/JoneYng/main/assets/github-contribution-grid-snake.svg)
