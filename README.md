@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=5475BF&width=500&lines=%E4%B8%96%E4%BA%8B%E5%A6%82%E4%B9%A6%EF%BC%8C%E6%88%91%E5%81%8F%E7%88%B1%E4%BD%A0%E8%BF%99%E4%B8%80%E5%8F%A5%EF%BC%8C%E6%84%BF%E5%81%9A%E4%B8%AA%E9%80%97%E5%8F%B7%EF%BC%8C%E5%BE%85%E5%9C%A8%E4%BD%A0%E8%84%9A%E8%BE%B9)](https://git.io/typing-svg)
 
 ![](https://raw.githubusercontent.com/JoneYng/JoneYng/main/assets/github-contribution-grid-snake.svg)
 
