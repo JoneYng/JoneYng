@@ -1,8 +1,8 @@
 <div align="center">
-an android developer~
+## an android developer~
 </div>
 <div align="center">
-世事如书，我偏爱你这一句，愿做个逗号，待在你脚边
+## 世事如书，我偏爱你这一句，愿做个逗号，待在你脚边
 </div>
 
 ![](https://raw.githubusercontent.com/JoneYng/JoneYng/main/assets/github-contribution-grid-snake.svg)
