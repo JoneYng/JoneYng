@@ -5,7 +5,7 @@
 ![](https://raw.githubusercontent.com/JoneYng/JoneYng/main/assets/github-contribution-grid-snake.svg)
 
 ## 🥱About me
-- Name: JoneYng/Xiang Zhow
+- Name: JoneYng/Xiang Zhou
 - Hometown: Haidian/Beijing,  Province in China
 - Project
    - [JoneYng/ZxAndroid-master](https://github.com/JoneYng/ZxAndroid-master)
