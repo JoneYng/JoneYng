@@ -1,8 +1,6 @@
 <div align="center">
-<h3>an android developer~</br></br>执着于理想，纯粹于当下<h2/>
+<h3>an android developer~</br>
 </div>
-
-![](https://raw.githubusercontent.com/JoneYng/JoneYng/main/assets/github-contribution-grid-snake.svg)
 
 ## 🥱About me
 - Name: JoneYng/Xiang Zhou
