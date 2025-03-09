@@ -4,8 +4,7 @@
 
 ## 🥱About me
 - Hometown: Haidian/Beijing,  Province in China
-- Project
-   - [JoneYng/ZxAndroid-master](https://github.com/JoneYng/ZxAndroid-master)
+
    
 ## 📈Statistics
 <div align="center">
