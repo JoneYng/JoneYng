@@ -3,7 +3,6 @@
 </div>
 
 ## 🥱About me
-- Name: JoneYng/Xiang Zhou
 - Hometown: Haidian/Beijing,  Province in China
 - Project
    - [JoneYng/ZxAndroid-master](https://github.com/JoneYng/ZxAndroid-master)
